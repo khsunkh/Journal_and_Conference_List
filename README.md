@@ -6,7 +6,8 @@
 
 * [2018 Journal](#2018--Journal)
 * [2018 Conference](#2018--Conference)
-
+* [Education or Workshop Hosts in Korea](#Education--or--Workshop--Host--in--Korea)
+* [Etc.](#Etc.)
 ***
 
 ### 2018 Journal
@@ -14,3 +15,12 @@
 
 ### 2018 Conference
 - **ICITA 2018** (Deadline : 2018/04/01) [[link]](http://www.icita.org/) [[Deadline]](http://www.icita.org/dates.jsp)
+
+### Education or Workshop Hosts in Korea
+- **KIISE** (The Korean Institute of Information Scientists and Engineers) [[link]](http://www.kiise.or.kr/academy/main/main.fa)
+- **KAIA** (The Korean Artificail Intelligence Association) [[link]](http://aiassociation.kr/)
+- **KOSMO** (The Korea Software Management Organization) [[link]](http://www.ikosmo.co.kr/)
+- **MDS** (Hancom MDS Academy) [[link]](http://www.mdsacademy.co.kr/)
+
+### Etc.
+- **KOREAAI** [[link]](https://www.koreaai.org/)
